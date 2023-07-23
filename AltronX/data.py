@@ -308,7 +308,7 @@ REPLYRAID = [
     "TERI SEXY BAHEN KI CHUT OP",
 ]
 
-GROUP = [-1001916027284]
+GROUP = [-1001869922154]
 
 PORMS = [
         "https://te.legra.ph/file/a66008b78909b431fc92b.mp4",
