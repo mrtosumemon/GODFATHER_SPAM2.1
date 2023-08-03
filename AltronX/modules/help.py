@@ -2,7 +2,7 @@ from config import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
 from telethon import events, Button
 
 
-PythonHelp = f"★ 𝗚𝗼𝗱𝗳𝗮𝘁𝗵𝗲𝗿𝘀𝗽𝗮𝗺 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @YOUR_GODFATHER_XD**"
+PythonHelp = f"★ 𝙂𝙊𝘿𝙁𝘼𝙏𝙃𝙀𝙍 𝙃𝙀𝙇𝙋 𝙈𝙀𝙉𝙐 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ʟᴇɢᴇɴᴅ: @YOUR_GODFATHER_XD**"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -18,7 +18,7 @@ PythonHelp = f"★ 𝗚𝗼𝗱𝗳𝗮𝘁𝗵𝗲𝗿𝘀𝗽𝗮𝗺 𝙃𝙚
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                                  "https://te.legra.ph/file/3f8c9a32f059e8cf1f4d0.jpg",
+                                  "https://telegra.ph/file/3ee5c13390412705edda4.jpg",
                                   caption=PythonHelp,
                                   buttons=[
            [
@@ -29,7 +29,7 @@ async def help(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [    
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ABOUT_GODFATHER"),
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/THE_INCRICIBLE"),
             Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/INCRICIBLE")
            ],
            ],
@@ -130,7 +130,7 @@ async def helpback(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ABOUT_GODFATHER"),
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/THE_INCRICIBLE"),
             Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/INCRICIBLE")
            ],
            ],
