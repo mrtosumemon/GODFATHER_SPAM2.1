@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/YOUR_GODFATHER_XD"><img src="https://te.legra.ph/file/3f8c9a32f059e8cf1f4d0.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/YOUR_GODFATHER_XD"><img src="https://telegra.ph/file/7a92945bb70c6bad9f9f9.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP GODFATHERX SPAM BOT, That is the greatest pleasure we have !
