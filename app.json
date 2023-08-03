@@ -1,6 +1,6 @@
 {
-    "name": "PythonX HERE.",
-    "logo": "https://te.legra.ph/file/dc6415d3003c20b76793b.jpg",
+    "name": "GodfatherX HERE.",
+    "logo": "https://telegra.ph/file/3ee5c13390412705edda4.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/mrtosumemon/ThetosuBotSpam",
+    "repository": "https://github.com/mrtosumemon/GODFATHER_SPAM2.1",
     "env": {
      "CMD_HNDLR": {
             "description": "Custom command handler.",
