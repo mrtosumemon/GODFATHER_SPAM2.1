@@ -126,7 +126,7 @@ RAID = [
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀𝗞𝗢 𝗞𝗛𝗨𝗟𝗘 𝗕𝗔𝗝𝗔𝗥 𝗠𝗘 𝗖𝗛𝗢𝗗 𝗗𝗔𝗟𝗔 🤣🤣💋",
 ]
 
-ALTRON = [5288547197]
+GODFATHER = [5288547197]
 
 REPLYRAID = [
     "MADARCHOD",
@@ -154,7 +154,7 @@ REPLYRAID = [
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
-    "[RYAN](t.me/PYTH0NXD) TERA BAAP !!",
+    "[GODFATHER](t.me/YOUR_GODFATHER_XD) TERA BAAP !!",
     "CHUD GYA PAPA SEEE",
     "KISAN KO KHODNA OR",
     "SALE RAPEKL KRDKA TERA",
